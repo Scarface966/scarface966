@@ -1,5 +1,5 @@
 import requests
-import randomy
+import random
 
 import string
 import time
